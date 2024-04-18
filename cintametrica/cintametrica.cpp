@@ -1,6 +1,6 @@
 #include "arduino.h"
 #include "cintametrica.h"
-// ****** CLASE ULTRASONIDO **********
+//  CLASE ULTRASONIDO 
 //Constructor parametrizado
 Ultrasonido::Ultrasonido(byte _pinTrigger, byte
 _pinEcho){
